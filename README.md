@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Alomgir Sheak 👋
 
-<!--
-**alomgirsheak839-hue/alomgirsheak839-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Developer | Learner | Dreamer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning GitHub & Web Development
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: Just message me on GitHub!
+- ⚡ Fun fact: I never stop learning, Alhamdulillah!
+
+### 🛠️ Skills
+`HTML` `CSS` `Git` `GitHub`
+
+### 📊 GitHub Stats
+![Alomgir's GitHub stats](https://github-readme-stats.vercel.app/api?username=alomgirsheak839-hue&show_icons=true&theme=radical)
+
+
+
+
+
+---
+⭐ From alomgirsheak839-hue
